@@ -149,7 +149,8 @@ module ripple_counter_4bit_tb;
     endmodule
 
     output:
-    ![Screenshot 2024-11-13 215248](https://github.com/user-attachments/assets/fd623c2a-e08e-4953-b41f-51eee40ff0af)
+![Screenshot 2024-11-13 215248](https://github.com/user-attachments/assets/ce8fa900-4a6c-4bae-a732-0d54b31eb0ad)
+
 
     
 
